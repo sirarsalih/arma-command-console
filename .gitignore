@@ -1,0 +1,4 @@
+*.suo
+ArmaCommandConsole/bin
+ArmaCommandConsole/obj
+ArmaCommandConsole/*.user
